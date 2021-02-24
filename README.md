@@ -32,5 +32,5 @@ Also, the cute bear wave images from https://www.pinterest.ca/herringwws/bears-w
 the major code changes inside the style.css, and applied inside the HTML, except for Theme images and images captions with CSS; For all 3 documents, i added a bear wave image below the books' Preface to show the welcome to Audiencs and display captions, with standard figure settings as listed inside the styles
 
 ## In part 2:
-The HTML page inspired by https://softwareprocess.es/homepage/index.html, And http://theoatmeal.com/comics/design_hell
-Also, the template coming from https://codepen.io/terf/pen/vgurb
+The HTML page inspired by https://softwareprocess.es/homepage/index.html, And http://theoatmeal.com/comics/design_hell, The frame work coming from the template   https://codepen.io/terf/pen/vgurb
+The ugly bear from https://www.deviantart.com/idiosyncratic-hammer/art/ugly-bears-170967550
