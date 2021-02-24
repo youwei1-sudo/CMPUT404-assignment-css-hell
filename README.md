@@ -28,6 +28,9 @@ Refference
 The orginal books' HTML from top book listed in http://www.gutenberg.org/browse/scores/top; 
 Some cute CSS style, insipired by https://wdexplorer.com/20-examples-beautiful-css-typography-design/, especially for the header theme  
 Also, the cute bear wave images from https://www.pinterest.ca/herringwws/bears-waving/
-In part1:
-the major code changes inside the style.css, and applied inside the HTML, 
-except for Theme images and images captions with CSS; For all 3 documents, i added a bear wave image below the books' Preface to show the welcome to Audiencs and display captions, with standard figure settings as listed inside the styles
+## In part1:
+the major code changes inside the style.css, and applied inside the HTML, except for Theme images and images captions with CSS; For all 3 documents, i added a bear wave image below the books' Preface to show the welcome to Audiencs and display captions, with standard figure settings as listed inside the styles
+
+## In part 2:
+The HTML page inspired by https://softwareprocess.es/homepage/index.html, And http://theoatmeal.com/comics/design_hell
+Also, the template coming from https://codepen.io/terf/pen/vgurb
