@@ -8,8 +8,9 @@ p { color: #f3d552;
 
 body { background-color:rgb(46, 48, 49);
     background-image: url("good/ugly_bear.jpg");
-    margin-left: 20%;
-    margin-right: 20%;
+    background-size: 500px 300px;
+    margin-left: 10%;
+    margin-right: 10%;
     text-align: justify
 }
 
