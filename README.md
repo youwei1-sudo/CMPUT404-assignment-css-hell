@@ -21,10 +21,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-With several modification and inspired by the refference URL,
+With several modification and inspired by the reference URL,
 1.html,2.html,3.html,style.css, good.html,bad.html, good_styles.css, bad_styles.css content is copyright Youwei Chen (C) under the CC-BY-SA 4.0 unported license.  
 
-Refference 
+Reference 
 =================
 The original books' HTML from the top book listed in http://www.gutenberg.org/browse/scores/top; 
 Some cute CSS style, inspired by https://wdexplorer.com/20-examples-beautiful-css-typography-design/, especially for the header theme  
@@ -36,3 +36,4 @@ I wrote a linked css file which is called style.css and this is applied inside t
 ## In part 2:
 The HTML page inspired by https://softwareprocess.es/homepage/index.html, And http://theoatmeal.com/comics/design_hell, The framework coming from the template   https://codepen.io/terf/pen/vgurb, http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/css/css_navbar.asp.html
 The ugly bear from https://www.deviantart.com/idiosyncratic-hammer/art/ugly-bears-170967550
+
